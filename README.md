@@ -24,4 +24,14 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 ### How to Fork
 
+1. Click on the Fork Button
 
+![Clicking on Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-how-to-fork.png)
+
+2. Fork it to your personal github account.
+
+![Forking](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-how-to-fork.png)
+
+3. Make sure you are on your fork of the lab.
+
+![Your Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-fork.png)
