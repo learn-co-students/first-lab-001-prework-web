@@ -35,3 +35,23 @@ Forking is a feature of github that creates a copy of a repository on your accou
 3. Make sure you are on your fork of the lab.
 
 ![Your Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-fork.png)
+
+### How to Clone
+
+1. Copy your Clone URL, it should start with https://
+
+![Your Fork Clone URL](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-how-to-clone.png)
+
+2. From your terminal, from your home directory (you can `cd ~` to quickly jump there), type in: `git clone` and then paste the clone address you copied in step 1.
+
+![git clone](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-how-to-clone.png)
+
+3. Enter in your github credentials.
+
+![github authentication](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-clone.png)
+
+_Note: If you have 2-factor-authentication on github turned on this won't work. Turn it off from your [settings](https://github.com/settings/security)_
+
+4. Your clone should now exist in a new directory named after the lab.
+
+![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-clone.png)
