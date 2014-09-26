@@ -115,15 +115,15 @@ Open the lab in github (the end of step 7 above).
 
 1. Click on the branch comparison icon from the repository home.
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-opeing-the-pull-request.png)
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-opening-pull-request.png)
 
 2. Click Create Pull Request
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-opeing-the-pull-request.png)
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-opening-pull-request.png)
 
 3. Confirm the Create Pull Request
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opeing-the-pull-request.png)
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opening-the-pull-request.png)
 
 
 
