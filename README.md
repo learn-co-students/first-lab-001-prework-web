@@ -36,6 +36,11 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 ![Your Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-fork.png)
 
+
+## Cloning from Github
+
+Cloning means bringing down a copy of a git repository from a remote source (like Github). It is creating another copy of a repository on your computer and allowing your local copy to communicate and update the copy on github.
+
 ### How to Clone
 
 1. Copy your Clone URL, it should start with https://
@@ -54,4 +59,75 @@ _Note: If you have 2-factor-authentication on github turned on this won't work. 
 
 4. Your clone should now exist in a new directory named after the lab.
 
-![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-clone.png)
+![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-how-to-clone.png)
+
+5. cd into the lab directory so you can get to work!
+
+![All good](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-how-to-clone.png)
+
+## Solving this Lab
+
+Now that you have forked and cloned your fork, your goal is simple. Just create a new file within this lab.
+
+1. You should be cd'd into this lab's directory. Confirm that your working directory in terminal is this lab: `pwd`
+
+You should see something like: `/Users/avi/first-lab`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-solving-the-lab.png)
+
+2. Simply create a file. It doesn't matter what you call it.
+
+`touch my-new-file.txt`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-solving-the-lab.png)
+
+3. Add it to the repo, staging it for commit.
+
+`git add my-new-file.txt`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-solving-the-lab.png)
+
+4. Confirm that the file is staged for commit with `git status`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-solving-the-lab.png)
+
+5. Commit the file.
+
+`git commit -am "My first commit"`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-solving-the-lab.png)
+
+
+6. Push that to your fork, up to github.
+
+`git push origin master`
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/6-solving-the-lab.png)
+
+
+7. Go to github and confirm the push.
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
+
+## Opening a Pull Request
+
+Open the lab in github (the end of step 7 above).
+
+1. Click on the branch comparison icon from the repository home.
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-opeing-the-pull-request.png)
+
+2. Click Create Pull Request
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-opeing-the-pull-request.png)
+
+3. Confirm the Create Pull Request
+
+![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opeing-the-pull-request.png)
+
+
+
+
+
+
+
