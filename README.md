@@ -7,8 +7,6 @@ languages: bash
 
 On Ironboard, labs are exercises you have to complete.
 
-This will be seen in ironboard.
-
 The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
 
 To complete this lab you will have to:
