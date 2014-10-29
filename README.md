@@ -18,6 +18,10 @@ To complete this lab you will have to:
 5. Push that commit to your fork.
 6. Open a Pull Request for your fork.
 
+Your first step is to scroll down to the bottom of the page, which will direct you to the lab on Github. You should see something like this:
+
+![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
+
 ## Forking from Github
 
 Forking is a feature of github that creates a copy of a repository on your account. When you solve a lab, you'll be coding the solution not on the deployed copy of the lab that everyone has access too, but rather, on your copy, your fork.
@@ -36,6 +40,13 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 ![Your Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-fork.png)
 
+#### On Ironboard
+
+You should see something like this, once you've forked the repository:
+
+![Ironboard Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
+
+(Note that it might not be Halloween themed :) Usually it will be green and red lights.)
 
 ## Cloning from Github
 
@@ -81,31 +92,35 @@ You should see something like: `/Users/avi/first-lab`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-solving-the-lab.png)
 
-3. Add it to the repo, staging it for commit.
+3. Once you've done that, run `ironboard` which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file.
+
+![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-3.png)
+
+4. Add it to the repo, staging it for commit.
 
 `git add my-new-file.txt`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-solving-the-lab.png)
 
-4. Confirm that the file is staged for commit with `git status`
+5. Confirm that the file is staged for commit with `git status`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-solving-the-lab.png)
 
-5. Commit the file.
+6. Commit the file.
 
 `git commit -am "My first commit"`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-solving-the-lab.png)
 
 
-6. Push that to your fork, up to github.
+7. Push that to your fork, up to github.
 
 `git push origin master`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/6-solving-the-lab.png)
 
 
-7. Go to github and confirm the push.
+8. Go to github and confirm the push.
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
 
@@ -125,6 +140,9 @@ Open the lab in github (the end of step 7 above).
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opening-the-pull-request.png)
 
+4. Look on Ironboard again and you should see a confirmation of that pull request being opened and a remote build passing
+
+![PR & Remote Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-4.png)
 
 
 
