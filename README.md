@@ -92,7 +92,7 @@ You should see something like: `/Users/avi/first-lab`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-solving-the-lab.png)
 
-3. Once you've done that, run `ironboard` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the testing passing on your computer, you should see something like this on Ironboard, indicating the local build is passing:
+3. Once you've done that, run `ironboard` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Ironboard, indicating the local build is passing:
 
 ![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-3.png)
 
