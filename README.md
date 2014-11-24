@@ -22,7 +22,7 @@ To complete this lab you will have to:
 
 Your first step is to scroll down to the bottom of the page, which will direct you to the lab on Github. You should see something like this:
 
-![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
+![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/first-lab-1.png)
 
 ## Forking from Github
 
@@ -46,9 +46,8 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 You should see something like this, once you've forked the repository:
 
-![Ironboard Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
+![Ironboard Fork](https://s3-us-west-2.amazonaws.com/readme-photos/first-lab-2.png)
 
-(Note that it might not be Halloween themed :) Usually it will be green and red lights.)
 
 ## Cloning from Github
 
@@ -96,7 +95,7 @@ You should see something like: `/Users/avi/first-lab`
 
 3. Once you've done that, run `ironboard` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Ironboard, indicating the local build is passing:
 
-![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-3.png)
+![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/first-lab-3.png)
 
 4. Add it to the repo, staging it for commit.
 
@@ -144,10 +143,4 @@ Open the lab in github (the end of step 7 above).
 
 4. Look on Ironboard again and you should see a confirmation of that pull request being opened and a remote build passing:
 
-![PR & Remote Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-4.png)
-
-
-
-
-
-
+![PR & Remote Build](https://s3-us-west-2.amazonaws.com/readme-photos/first-lab-4.png)
