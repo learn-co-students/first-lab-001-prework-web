@@ -1,11 +1,11 @@
 ---
-tags: git, github, bash, command line, ironboard, tutorial
+tags: git, github, bash, command line, learn, tutorial
 languages: bash
 ---
 
 # Your First Lab
 
-On Ironboard, labs are exercises you have to complete.
+On Learn, labs are exercises you have to complete.
 
 The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
 
@@ -22,7 +22,7 @@ To complete this lab you will have to:
 
 Your first step is to scroll down to the bottom of the page, which will direct you to the lab on Github. You should see something like this:
 
-![Ironboard](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
+![Learn](https://s3-us-west-2.amazonaws.com/readme-photos/ib-1.png)
 
 ## Forking from Github
 
@@ -42,11 +42,11 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 ![Your Fork](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-how-to-fork.png)
 
-#### On Ironboard
+#### On Learn
 
 You should see something like this, once you've forked the repository:
 
-![Ironboard Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
+![Learn Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
 
 
 ## Cloning from Github
@@ -93,7 +93,7 @@ You should see something like: `/Users/avi/first-lab`
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-solving-the-lab.png)
 
-3. Once you've done that, run `ironboard` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Ironboard, indicating the local build is passing:
+3. Once you've done that, run `learn` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
 
 ![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-3.png)
 
@@ -141,6 +141,6 @@ Open the lab in github (the end of step 7 above).
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-opening-the-pull-request.png)
 
-4. Look on Ironboard again and you should see a confirmation of that pull request being opened and a remote build passing:
+4. Look on Learn again and you should see a confirmation of that pull request being opened and a remote build passing:
 
 ![PR & Remote Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-4.png)
