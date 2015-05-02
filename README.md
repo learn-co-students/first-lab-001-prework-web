@@ -1,5 +1,5 @@
 ---
-tags: git, github, bash, command line, learn, tutorial
+tags: git, github, bash, command line, learn.co, tutorial
 languages: bash
 ---
 
@@ -9,7 +9,7 @@ On Learn, labs are exercises you have to complete.
 
 The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
 
-**Make sure you accept the invite on [Github](https://github.com/flatiron-school-ironboard) to the IronBoard team**
+**Make sure you accept the invite on [Github](https://github.com/learn-co-students) to the learn.co student organization**
 
 To complete this lab you will have to:
 
@@ -46,7 +46,7 @@ Forking is a feature of github that creates a copy of a repository on your accou
 
 You should see something like this, once you've forked the repository:
 
-![Learn Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
+![Learn.co Fork](https://s3-us-west-2.amazonaws.com/readme-photos/ib-2.png)
 
 
 ## Cloning from Github
