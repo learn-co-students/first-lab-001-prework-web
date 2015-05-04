@@ -81,13 +81,9 @@ First, try to run the `learn` CLI by typing `learn` in the lesson's directory. Y
 
 `git add my-new-file.txt`
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/3-solving-the-lab.png)
+![1](https://dl.dropboxusercontent.com/s/kesh225ztp4owbk/2015-05-03%20at%209.12%20PM.png)
 
-5. Confirm that the file is staged for commit with `git status`
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/4-solving-the-lab.png)
-
-6. Commit the file.
+5. Commit the file.
 
 `git commit -am "My first commit"`
 
