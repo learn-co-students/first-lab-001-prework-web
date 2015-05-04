@@ -65,17 +65,17 @@ You should see something like: `/Users/avi/first-lab`
 
 ![1](https://dl.dropboxusercontent.com/s/4h2yls40mf9femj/2015-05-03%20at%209.05%20PM.png)
 
-First, try to run the `learn` CLI by typing `learn` in the lesson's directory.
+First, try to run the `learn` CLI by typing `learn` in the lesson's directory. You'll see output similar to this, with failing tests (that's fine, don't panic).
+
+![Failing Tests](https://dl.dropboxusercontent.com/s/9ob3cey1lpeb6ql/2015-05-03%20at%209.10%20PM.png)
 
 2. Simply create a file. It doesn't matter what you call it.
 
-`touch my-new-file.txt`
-
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/2-solving-the-lab.png)
-
 3. Once you've done that, run `learn` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
 
-![Local Build](https://s3-us-west-2.amazonaws.com/readme-photos/ib-3.png)
+`touch my-new-file.txt`
+
+![1](https://dl.dropboxusercontent.com/s/rfs3onevx3l2o21/2015-05-03%20at%209.10%20PM%20%281%29.png)
 
 4. Add it to the repo, staging it for commit.
 
