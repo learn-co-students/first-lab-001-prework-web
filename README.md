@@ -87,7 +87,7 @@ First, try to run the `learn` CLI by typing `learn` in the lesson's directory. Y
 
 `git commit -am "My first commit"`
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/5-solving-the-lab.png)
+![1](https://dl.dropboxusercontent.com/s/9y3zt153pvaabh0/2015-05-03%20at%209.14%20PM.png)
 
 ## 4. Push Your Code to Github
 
@@ -97,7 +97,7 @@ After adding and commiting your most recent work next we want to push our work u
 
 `git push origin master`
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/6-solving-the-lab.png)
+![1](https://dl.dropboxusercontent.com/s/7qta395mpnmst7x/2015-05-03%20at%209.15%20PM.png)
 
 Go to github and confirm the push.
 
