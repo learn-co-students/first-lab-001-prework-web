@@ -1,6 +1,6 @@
 ---
 tags: git, github, bash, command line, learn.co, tutorial
-languages: bash
+languages: bash, ruby
 ---
 
 # Your First Lab
