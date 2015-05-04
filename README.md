@@ -47,8 +47,9 @@ To clone, click the copy button next to the Clone URL to copy it to your clipboa
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg" alt="Ironboard Labs Step 2">
 
-Next, in Terminal navigate to the parent directory where you would like to place this lab. Then type ♥ `git clone <paste the clone URL here>`  
-Note: You should replace the &lt;paste the clone URL here&gt; including the &lt; and &gt; symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: git clone git@github.com:jongrover/html-album-cover-fe-004.git
+Next, in Terminal navigate to the parent directory where you would like to place this lab. Then type:  `git clone <paste the clone URL here>`  
+
+Note: You should replace the &lt;paste the clone URL here&gt; including the &lt; and &gt; symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: git clone git@github.com:jongrover/first-lab-000.git
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2b.png" alt="Ironboard Labs Step 2b">
 
@@ -58,11 +59,13 @@ Note: You should replace the &lt;paste the clone URL here&gt; including the &lt;
 
 Now that you have forked and cloned your fork, your goal is simple. Just create a new file within this lab.
 
-1. You should be cd'd into this lab's directory. Confirm that your working directory in terminal is this lab: `pwd`
+You should be cd'd into this lab's directory. Confirm that your working directory in terminal is this lab: `pwd`
 
 You should see something like: `/Users/avi/first-lab`
 
-![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/1-solving-the-lab.png)
+![1](https://dl.dropboxusercontent.com/s/4h2yls40mf9femj/2015-05-03%20at%209.05%20PM.png)
+
+First, try to run the `learn` CLI by typing `learn` in the lesson's directory.
 
 2. Simply create a file. It doesn't matter what you call it.
 

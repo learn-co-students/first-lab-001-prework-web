@@ -2,6 +2,6 @@ require 'spec_helper'
 
 describe 'First Lab' do
   it 'added a file' do
-    expect(Dir.entries(".").size).to be >= 7
+    expect(Dir["*"]).to be > 2
   end
 end
