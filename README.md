@@ -58,13 +58,13 @@ Note: You should replace the &lt;paste the clone URL here&gt; including the &lt;
 
 Now that you have forked and cloned your fork, your goal is simple. Just create a new file within this lab.
 
-You should be cd'd into this lab's directory. Confirm that your working directory in terminal is this lab: `pwd`
+Go into this lab's directory by typing 'cd first-lab-000'. Confirm that your working directory in terminal is this lab by typing: `pwd`
 
-You should see something like: `/Users/avi/first-lab`
+You should see something like: `/Users/avi/first-lab-000`
 
 ![1](https://dl.dropboxusercontent.com/s/4h2yls40mf9femj/2015-05-03%20at%209.05%20PM.png)
 
-First, try to run the `learn` CLI by typing `learn` in the lesson's directory. You'll see output similar to this, with failing tests (that's fine, don't panic).
+Now, try to run the `learn` CLI by typing `learn` in the lesson's directory. You'll see output similar to this, with failing tests (that's fine, don't panic).
 
 ![Failing Tests](https://dl.dropboxusercontent.com/s/9ob3cey1lpeb6ql/2015-05-03%20at%209.10%20PM.png)
 
