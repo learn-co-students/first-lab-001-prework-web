@@ -43,7 +43,8 @@ Cloning is the process of making a local copy of the lab from your personal remo
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
-To clone, click the copy button next to the Clone URL to copy it to your clipboard.
+To clone, make sure you've first clicked on the SSH link, then click the 
+copy button next to the Clone URL to copy it to your clipboard.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg" alt="Ironboard Labs Step 2">
 
@@ -109,25 +110,13 @@ Submitting a pull request can be described as the process of asking the maintain
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png" alt="Git Workflow 5">
 
-To do so, in Learn click the title of the lab to go to Flatiron Schools copy.
+To do so, in Learn click the title of the lab to go to your forked copy on Github.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
-This will take you back to the Learn copy you originally forked from. Then click the Pull Requests link from the right sidebar.
+Then click the green Pull Request button.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg" alt="Ironboard Labs Step 4">
-
-Next, click the New pull request button.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4b.jpg" alt="Ironboard Labs Step 4b">
-
-Then click the compare across forks link.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4c.jpg" alt="Ironboard Labs Step 4c">
-
-Then click the drop down menu for the head fork and select yourself from the list.
-
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg" alt="Ironboard Labs Step 4d">
 
 After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
@@ -137,4 +126,4 @@ Then click Create pull request button again.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
-That's it your done! Now go back to Learn and you should be able to proceed.
+That's it, you're done! Now go back to Learn and you should see the Pull Request flip to green, and the remote build will be kicked off. Once it passes, you will be able to proceed to the Next Lesson.
