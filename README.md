@@ -1,8 +1,3 @@
----
-tags: git, github, bash, command line, learn.co, tutorial
-languages: bash, ruby
----
-
 # Your First Lab
 
 On Learn, labs are exercises you have to complete.
