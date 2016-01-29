@@ -121,4 +121,4 @@ Then click Create pull request button again.
 
 That's it, you're done! Now go back to Learn and you should see the Pull Request flip to green, and the remote build will be kicked off. Once it passes, you will be able to proceed to the Next Lesson.
 
-<a href='https://learn.co/lessons/first-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab' title='Your First Lab'>Your First Lab</a> on Learn.co and start learning to code for free.</p>
