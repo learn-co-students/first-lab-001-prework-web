@@ -18,9 +18,9 @@ Forking is the process of making a personal remote copy of the Learn lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
 
-To get started, in Learn click the title of the lab to go to Flatiron School's copy of the lab on Github.
+To get started, in Learn click the GitHub button to go to Flatiron School's copy of the lab on Github.
 
-<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg" alt="Ironboard Labs Step 0">
+<img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/first-lab/GitHub.png" alt="Ironboard Labs Step 0">
 
 Next on Flatiron's Github page for the lab click the Fork button.
 
