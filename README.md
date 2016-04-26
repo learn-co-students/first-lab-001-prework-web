@@ -61,7 +61,7 @@ You should see something like: `/Users/avi/first-lab-000`
 
 Now, try to run the `learn` CLI by typing `learn` in the lesson's directory. You'll see output *similar* to this, with failing tests (that's fine, don't panic).
 
-![Failing Tests](https://dl.dropboxusercontent.com/s/9ob3cey1lpeb6ql/2015-05-03%20at%209.10%20PM.png)
+![Failing Tests](https://s3.amazonaws.com/learn-verified/First-lab-failing-tests.png)
 
 2. Simply create a file and name it: 'my-new-file.txt'.
 
@@ -70,7 +70,7 @@ Now, try to run the `learn` CLI by typing `learn` in the lesson's directory. You
 3. Once you've done that, run `learn` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added this new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
 
 
-![1](https://dl.dropboxusercontent.com/s/rfs3onevx3l2o21/2015-05-03%20at%209.10%20PM%20%281%29.png)
+![Passing Tests](https://s3.amazonaws.com/learn-verified/first-lab-passing-tests.png)
 
 4. Add it to the repo, staging it for commit.
 
