@@ -2,19 +2,20 @@
 
 On Learn, labs are exercises you have to complete.
 
-The goal of this lab is to practice the workflow to complete a lab and to see if you can make a new file or directory using terminal.
+The goal of this lab is to practice the workflow required to complete a lab and make sure that you can make a new file using the terminal.
 
 To complete this lab you will have to:
 
 1. Fork the lab via github.
 2. Clone your fork.
-3. Solve the Lab
-4. Push that commit to your fork.
-5. Open a Pull Request for your fork.
+3. Solve the lab
+4. Commit your changes
+5. Push the changes to your fork.
+6. Open a Pull Request from your fork.
 
 ## 1. Forking from Github
 
-Forking is the process of making a personal remote copy of the Learn lab.
+Forking is the process of making your personal copy of the Learn lab on GitHub.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png" alt="Git Workflow 1">
 
@@ -32,7 +33,7 @@ Then select your personal Github account as the location to fork to.
 
 ## 2. Clone Your Fork
 
-Cloning is the process of making a local copy of the lab from your personal remote on Github.
+Cloning is the process of making a local copy of the lab from your fork on Github.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
@@ -61,17 +62,18 @@ You should see something like: `/Users/avi/first-lab-000`
 
 Now, try to run the `learn` CLI by typing `learn` in the lesson's directory. You'll see output *similar* to this, with failing tests (that's fine, don't panic).
 
-![Failing Tests](https://dl.dropboxusercontent.com/s/9ob3cey1lpeb6ql/2015-05-03%20at%209.10%20PM.png)
+![Failing Tests](https://s3.amazonaws.com/learn-verified/First-lab-failing-tests.png)
 
-2. Simply create a file. It doesn't matter what you call it.
-
-3. Once you've done that, run `learn` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added a new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
+2. Create a file and name it: 'my-new-file.txt'.
 
 `touch my-new-file.txt`
 
-![1](https://dl.dropboxusercontent.com/s/rfs3onevx3l2o21/2015-05-03%20at%209.10%20PM%20%281%29.png)
+3. Once you've done that, run `learn` on your terminal, which will run one test that's in the `spec/` folder. This test is looking to see that you've added this new file. If you have the test passing on your computer, you should see something like this on Learn, indicating the local build is passing:
 
-4. Add it to the repo, staging it for commit.
+
+![Passing Tests](https://s3.amazonaws.com/learn-verified/first-lab-passing-tests.png)
+
+4. Add the new file to the staging area.
 
 `git add my-new-file.txt`
 
@@ -79,31 +81,31 @@ Now, try to run the `learn` CLI by typing `learn` in the lesson's directory. You
 
 5. Commit the file.
 
-`git commit -am "My first commit"`
+`git commit -m "My first commit"`
 
 ![1](https://dl.dropboxusercontent.com/s/9y3zt153pvaabh0/2015-05-03%20at%209.14%20PM.png)
 
-## 4. Push Your Code to Github
+## 4. Push Your Code to GitHub
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png" alt="Git Workflow 4">
 
-After adding and commiting your most recent work next we want to push our work up to our personal Github remote (origin).
+After adding and commiting your most recent work next we want to push our work up to our personal fork on GitHub.
 
-`git push origin master`
+`git push`
 
 ![1](https://dl.dropboxusercontent.com/s/7qta395mpnmst7x/2015-05-03%20at%209.15%20PM.png)
 
-Go to github and confirm the push.
+Go to GitHub and confirm the push.
 
 ![1](http://flatiron-videos.s3.amazonaws.com/ironboard/ironboard-tutorial/7-solving-the-lab.png)
 
 ## 5. Opening a Pull Request
 
-Submitting a pull request can be described as the process of asking the maintainer of the Learn lab (upstream remote) to consider pulling (fetching & merging) in your work from your personal remote copy (origin remote). This enables your instructor to see your solution for the lab.
+Submitting a Pull Request is the process of Requesting that the maintainer of the original Learn lab to consider Pulling (fetching & merging) in your work from your fork on GitHub. This also enables Learn.co to see your solution for the lab.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png" alt="Git Workflow 5">
 
-To do so, in Learn click the title of the lab to go to your forked copy on Github.
+To do this, in Learn click on the title of the lab to go to your fork on GitHub.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
